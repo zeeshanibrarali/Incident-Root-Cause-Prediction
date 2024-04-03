@@ -1,2 +1,2 @@
 # Incident-Root-Cause-Prediction
-Incident Reports in ITOps usually states the symptoms. Identifying the root cause of the symptom quickly is a key determinant to reducing resolution times and improving user satisfaction.
+Incident Reports in ITOps usually states the symptoms. Identifying the root cause of the symptom quickly is a key determinant to reducing resolution times and improving user satisfaction. Depending on the seven inputs, I predict the root cause of the incident whether it happened due to the memeory leakage, network delay or a database issue with the accuracy of 83%.
